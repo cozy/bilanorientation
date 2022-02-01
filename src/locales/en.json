@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "todos": "Todos",
+    "hello_nav_2": "Hello 1",
+    "hello_nav_3": "Hello 2"
+  },
+  "todoAdd": {
+    "title": "Add a new Todo:",
+    "label": "Todo name:",
+    "button": {
+      "label": "Add"
+    }
+  },
+  "todoList": {
+    "title": "Todos list:"
+  },
+  "todoRemoveButton": {
+    "label": "Delete"
+  },
+  "List": {
+    "softSkills": "Mes motivations et compétences douces",
+    "schoolReports": "Mes bulletins scolaires et diplômes",
+    "skills": "Mes expériences",
+    "jobExplorations": "Métiers que j'explore",
+    "resumes": "CV et lettres de motivation",
+    "trainingSearch": "Recherche de formation"
+  },
+  "softSkills": "Mes talents de personne",
+  "badges": "Mes badges",
+  "level": "Niveau",
+  "context": "Contexte",
+  "type": "Type",
+  "positionning": "Positionnement",
+  "educationalContents": "Mes contenus éducatifs",
+  "jobCards": "Mes compatibilités avec les métiers sélectionnées",
+  "orientationReport": "Bilan d'orientation",
+  "JsonFilesProvider": {
+    "jsonFiles": {
+      "error": "%{name} is not found",
+      "info": "Data files are being loaded"
+    }
+  }
+}

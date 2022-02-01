@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "fields": [
+                {
+                    "context": [
+                        "Professionnelle"
+                    ],
+                    "level": 0,
+                    "skill": "Ecoute active"
+                }
+            ],
+            "name": "Badges",
+            "table": "badges"
+        }
+    ]
+}
