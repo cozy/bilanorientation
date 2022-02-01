@@ -44,7 +44,7 @@ const Header = () => {
 
   const showBackButton = pathname !== '/index' ? true : false
 
-  const goBack = useCallback(() => history.goBack())
+  const goBack = useCallback(() => history.goBack(), [history])
   if (isMobile) return null
 
   return (

@@ -14,7 +14,7 @@ const WipPage = () => {
     <Card className="u-bg-white">
       <Empty
         style={isDesktop ? { margin: 'auto' } : {}}
-        className={isDesktop ? 'u-w-6' : 'u-w-100'}
+        className={isDesktop ? 'u-w-6' : 'u-w-100 u-mt-3'}
         icon={MaintenanceSVG}
         iconSize={'large'}
         title={t('Bientôt sur vos écrans...')}
