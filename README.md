@@ -6,10 +6,9 @@
 # Bilanorientation
 
 ## What's Bilanorientation?
+If you need to deploy it, you need to build it and deploy it manually. 
 
-Bilanorientation is a POC. There is no CI linked to this repository. If you need to deploy it, you need to build it and deploy it manually. 
-
-Latest deployed branch: build/CustomJSONData
+Latest deployed branch: master
 
 ### Install
 
@@ -18,7 +17,7 @@ Hacking the Cozy Bilanorientation app requires you to [setup a dev environment][
 You can then clone the app repository and install dependencies:
 
 ```sh
-$ git clone https://github.com/crash/bilanorientation.git
+$ git clone https://github.com/cozy/bilanorientation.git
 $ cd bilanorientation
 $ yarn install
 ```
