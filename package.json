@@ -21,15 +21,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crash/bilanorientation.git"
+    "url": "git+https://github.com/cozy/bilanorientation.git"
   },
   "author": "",
   "contributors": [],
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/crash/bilanorientation/issues"
+    "url": "https://github.com/cozy/bilanorientation/issues"
   },
-  "homepage": "https://github.com/crash/bilanorientation#readme",
+  "homepage": "https://github.com/cozy/bilanorientation#readme",
   "devDependencies": {
     "@testing-library/react": "11.2.7",
     "babel-preset-cozy-app": "1.11.0",
